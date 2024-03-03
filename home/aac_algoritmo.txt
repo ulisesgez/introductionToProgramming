@@ -24,6 +24,14 @@ de la naturaleza del problema que se esté abordando.
 
 Ejemplos de algoritmos simples:
 
+Algoritmo para hacer una llamada telefonica:
+Paso 1: Buscar el numero telefonico.
+Paso 2: Marcar el numero en el telefono.
+Paso 3: Presionar llamar.
+Paso 4: Atender la llamada.
+Paso 5: Hablar / Interactuar en la llamada.
+Paso 6: Colgar / Cortar la llamada.
+
 Algoritmo para sumar dos números:
 Paso 1: Ingresar los dos números que se desean sumar.
 Paso 2: Sumar los dos números.
