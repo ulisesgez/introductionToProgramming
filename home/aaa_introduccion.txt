@@ -1,0 +1,65 @@
+Que es Programar?
+Es el proceso de escribir instrucciones o algoritmos que una computadora puede seguir para
+realizar una tarea específica. Estas instrucciones se escriben en lenguajes de programación,
+que son conjuntos de reglas y sintaxis que permiten a los programadores comunicarse con la
+computadora y decirle qué hacer. Programar implica diseñar, codificar, probar y depurar
+programas para garantizar que funcionen correctamente y produzcan los resultados deseados.
+
+Los programadores utilizan una variedad de herramientas y técnicas para desarrollar software
+que pueda realizar una amplia gama de funciones, desde aplicaciones móviles y sitios web
+hasta sistemas operativos y software empresarial.
+
+Por que empezar a programar?
+Hay muchas razones para empezar a programar. Aquí hay algunas:
+
+Habilidad del siglo XXI: En el mundo actual, la tecnología está en todas partes y la
+capacidad de programar es una habilidad valiosa en muchos campos profesionales,
+desde la ingeniería hasta el diseño gráfico y la ciencia de datos.
+
+Creatividad y resolución de problemas: La programación te permite crear cosas nuevas desde cero.
+Puedes desarrollar aplicaciones, juegos, sitios web y mucho más, lo que te brinda una
+salida para tu creatividad y te desafía a resolver problemas de manera lógica y estructurada.
+
+Oportunidades profesionales: La demanda de profesionales de la programación y la informática
+es alta y sigue creciendo. Aprender a programar puede abrirte puertas a una amplia gama de
+oportunidades laborales bien remuneradas y satisfactorias.
+
+Autonomía y flexibilidad: La programación te brinda la capacidad de crear tus propias
+soluciones y trabajar de forma independiente. También puedes trabajar desde cualquier lugar
+con acceso a una computadora e Internet.
+
+Entender la tecnología: En un mundo cada vez más digital, entender cómo funciona la tecnología
+que usamos a diario puede ser muy útil y empoderador. La programación te permite profundizar
+en el funcionamiento interno de la tecnología y te hace un usuario más informado y competente.
+
+Colaboración y trabajo en equipo: La programación no es solo un esfuerzo individual.
+Muchos proyectos de software requieren trabajo en equipo y colaboración, lo que te brinda la
+oportunidad de mejorar tus habilidades de comunicación y trabajar en un entorno colaborativo.
+
+En resumen, empezar a programar no solo te brinda habilidades técnicas valiosas,
+sino que también puede mejorar tu creatividad, resolver problemas y
+abrirte puertas a nuevas oportunidades profesionales.
+
+Que es un algoritmo?
+Un algoritmo es un conjunto finito de instrucciones precisas y bien definidas que se
+utilizan para resolver un problema o realizar una tarea específica.
+Los algoritmos son la base de la programación y la informática en general.
+Pueden ser representados de diversas formas, como diagramas de flujo, pseudocódigo o
+código de programación.
+
+Los algoritmos deben ser:
+
+Precisos: Cada paso del algoritmo debe estar claramente definido y sin ambigüedades.
+
+Definidos: Debe haber una descripción clara de las entradas, los pasos a seguir y
+los resultados esperados.
+
+Finitos: El algoritmo debe tener un número finito de pasos, es decir, debe terminar
+después de un número determinado de operaciones.
+
+Los algoritmos se utilizan en una amplia variedad de campos, desde las matemáticas
+y la informática hasta la ingeniería, la biología y la economía.
+Son fundamentales en el desarrollo de software, ya que guían a los programadores en
+la creación de programas y aplicaciones que realicen tareas específicas de manera
+eficiente y precisa. Los algoritmos pueden ser simples o muy complejos, dependiendo
+de la naturaleza del problema que se esté abordando.
