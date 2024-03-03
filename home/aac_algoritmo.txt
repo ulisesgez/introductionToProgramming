@@ -1,0 +1,49 @@
+Que es un algoritmo?
+Un algoritmo es un conjunto finito de instrucciones precisas y bien definidas que se
+utilizan para resolver un problema o realizar una tarea específica.
+Los algoritmos son la base de la programación y la informática en general.
+Pueden ser representados de diversas formas, como diagramas de flujo, pseudocódigo o
+código de programación.
+
+Los algoritmos deben ser:
+
+Precisos: Cada paso del algoritmo debe estar claramente definido y sin ambigüedades.
+
+Definidos: Debe haber una descripción clara de las entradas, los pasos a seguir y
+los resultados esperados.
+
+Finitos: El algoritmo debe tener un número finito de pasos, es decir, debe terminar
+después de un número determinado de operaciones.
+
+Los algoritmos se utilizan en una amplia variedad de campos, desde las matemáticas
+y la informática hasta la ingeniería, la biología y la economía.
+Son fundamentales en el desarrollo de software, ya que guían a los programadores en
+la creación de programas y aplicaciones que realicen tareas específicas de manera
+eficiente y precisa. Los algoritmos pueden ser simples o muy complejos, dependiendo
+de la naturaleza del problema que se esté abordando.
+
+Ejemplos de algoritmos simples:
+
+Algoritmo para sumar dos números:
+Paso 1: Ingresar los dos números que se desean sumar.
+Paso 2: Sumar los dos números.
+Paso 3: Mostrar el resultado de la suma.
+
+Algoritmo para determinar si un número es par o impar:
+Paso 1: Ingresar el número.
+Paso 2: Dividir el número entre 2.
+Paso 3: Si el residuo de la división es igual a 0, el número es par. De lo contrario, es impar.
+Paso 4: Mostrar el resultado.
+
+Algoritmo para encontrar el número más grande en una lista:
+Paso 1: Ingresar la lista de números.
+Paso 2: Inicializar una variable para almacenar el número más grande.
+Paso 3: Recorrer la lista y comparar cada número con el número más grande almacenado.
+Paso 4: Si el número actual es mayor que el número almacenado, actualizar el número más grande.
+Paso 5: Al finalizar la lista, mostrar el número más grande encontrado.
+
+Algoritmo para ordenar una lista de números de menor a mayor (método de selección):
+Paso 1: Ingresar la lista de números.
+Paso 2: Para cada elemento en la lista, encontrar el elemento más pequeño restante.
+Paso 3: Intercambiar el elemento actual con el elemento más pequeño encontrado.
+Paso 4: Repetir los pasos 2 y 3 hasta que la lista esté ordenada.

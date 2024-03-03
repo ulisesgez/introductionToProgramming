@@ -39,27 +39,3 @@ oportunidad de mejorar tus habilidades de comunicación y trabajar en un entorno
 En resumen, empezar a programar no solo te brinda habilidades técnicas valiosas,
 sino que también puede mejorar tu creatividad, resolver problemas y
 abrirte puertas a nuevas oportunidades profesionales.
-
-Que es un algoritmo?
-Un algoritmo es un conjunto finito de instrucciones precisas y bien definidas que se
-utilizan para resolver un problema o realizar una tarea específica.
-Los algoritmos son la base de la programación y la informática en general.
-Pueden ser representados de diversas formas, como diagramas de flujo, pseudocódigo o
-código de programación.
-
-Los algoritmos deben ser:
-
-Precisos: Cada paso del algoritmo debe estar claramente definido y sin ambigüedades.
-
-Definidos: Debe haber una descripción clara de las entradas, los pasos a seguir y
-los resultados esperados.
-
-Finitos: El algoritmo debe tener un número finito de pasos, es decir, debe terminar
-después de un número determinado de operaciones.
-
-Los algoritmos se utilizan en una amplia variedad de campos, desde las matemáticas
-y la informática hasta la ingeniería, la biología y la economía.
-Son fundamentales en el desarrollo de software, ya que guían a los programadores en
-la creación de programas y aplicaciones que realicen tareas específicas de manera
-eficiente y precisa. Los algoritmos pueden ser simples o muy complejos, dependiendo
-de la naturaleza del problema que se esté abordando.
