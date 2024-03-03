@@ -1,0 +1,21 @@
+Variable:
+Una variable es un espacio de memoria que puede contener valores que pueden cambiar
+durante la ejecución de un programa.
+
+Edad: En un programa que gestiona perfiles de usuarios, la edad de un usuario puede
+cambiar a medida que pasa el tiempo.
+Temperatura: En un sistema de control climático, la temperatura actual puede fluctuar y,
+por lo tanto, se almacena en una variable.
+Saldo bancario: En una aplicación bancaria, el saldo de una cuenta puede cambiar debido
+a depósitos, retiros o intereses acumulados.
+
+Constante:
+Una constante, por otro lado, es un valor que no puede cambiar durante la ejecución
+del programa.
+
+PI: En matemáticas y ciencias, PI (π) es una constante que representa la relación entre
+la circunferencia de un círculo y su diámetro. Su valor es aproximadamente 3.14159.
+Velocidad de la luz: En física, la velocidad de la luz en el vacío es una constante con
+un valor aproximado de 299,792,458 metros por segundo.
+Gravedad terrestre: La aceleración debida a la gravedad en la superficie de la Tierra es
+una constante que se representa como 9.8 metros por segundo al cuadrado.

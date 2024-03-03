@@ -1,0 +1,9 @@
+Informacion:
+Datos organizados y procesados que tienen significado y utilidad para quien los recibe.
+La información puede ser transmitida a través de diversos medios, como el lenguaje humano,
+imágenes, símbolos, sonidos, entre otros.
+
+En un sentido más técnico, la información se define como el resultado del procesamiento,
+manipulación y organización de datos, de manera que adquieren un significado
+y se convierten en conocimiento. La información puede ser cuantitativa o cualitativa,
+objetiva o subjetiva, dependiendo del contexto en el que se utiliza.
