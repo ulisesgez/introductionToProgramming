@@ -1,0 +1,72 @@
+Diagrama de Flujo:
+Un diagrama de flujo es una representación gráfica de un algoritmo o proceso,
+utilizando símbolos y flechas para mostrar la secuencia de pasos o acciones que se
+deben seguir para completar una tarea. Estos diagramas son utilizados en diversas disciplinas,
+incluyendo la informática, la ingeniería, la gestión de proyectos y otros campos,
+para visualizar y comprender la lógica de un proceso o algoritmo.
+
+Los diagramas de flujo consisten en una serie de formas estándar, cada una representando
+un tipo específico de acción o decisión, y conectadas por flechas que muestran la dirección
+del flujo del proceso.
+
+Algunos de los símbolos más comunes en los diagramas de flujo incluyen:
+
+Inicio/Fin: Representado por un óvalo, indica el inicio y el final del proceso.
+Proceso: Representado por un rectángulo, indica una acción o tarea a realizar.
+Decisión: Representado por un rombo, indica una pregunta o condición que debe evaluarse.
+Conector: Representado por un círculo, se utiliza para conectar partes del diagrama que
+están separadas físicamente.
+Entrada/Salida: Representado por un paralelogramo, indica entrada de datos o salida de
+resultados.
+
+Los diagramas de flujo son útiles para documentar algoritmos y procesos de una manera clara
+y comprensible. Permiten identificar posibles problemas o áreas de mejora en un proceso,
+así como comunicar de manera efectiva los pasos que deben seguirse para lograr un
+resultado deseado. Además, son una herramienta útil para enseñar programación
+y lógica de programación a principiantes.
+
+Diagrama de flujo para determinar si un número es par o impar:
+Inicio
+|
+V
+Ingresar el número
+|
+V
+¿El número es divisible por 2 sin dejar residuo?
+|
+|----> Sí ----> Es par ----> Fin
+|
+|----> No ----> Es impar ----> Fin
+|
+V
+Fin
+
+Diagrama de flujo para determinar el mayor de tres números:
+Inicio
+|
+V
+Ingresar el primer número (a)
+|
+V
+Ingresar el segundo número (b)
+|
+V
+Ingresar el tercer número (c)
+|
+V
+¿a > b?
+|
+|----> Sí ----> ¿a > c?
+|                |
+|                |----> Sí ----> a es el mayor ----> Fin
+|                |
+|                |----> No ----> c es el mayor ----> Fin
+|
+|----> No ----> ¿b > c?
+                 |
+                 |----> Sí ----> b es el mayor ----> Fin
+                 |
+                 |----> No ----> c es el mayor ----> Fin
+|
+V
+Fin
