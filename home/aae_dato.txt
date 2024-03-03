@@ -1,0 +1,32 @@
+Dato:
+Un dato es una representación simbólica (numérica, alfabética, alfanumérica, etc.)
+de un atributo o característica de una entidad. En el contexto de la informática y la
+tecnología, un dato es una unidad básica de información que puede ser procesada y
+manipulada por un sistema informático. Los datos pueden ser simples, como un número o
+una letra, o pueden ser más complejos, como una imagen, un video o un documento de texto.
+
+Tipos de datos:
+
+Enteros (integers): Representan números enteros sin decimales.
+Por ejemplo: 1, -5, 1000.
+
+Flotantes (floats): Representan números con decimales.
+Por ejemplo: 3.14, -0.001, 2.71828.
+
+Cadenas de caracteres (strings): Son secuencias de caracteres, como texto.
+Por ejemplo: "Hola mundo", "123", "¡Hola!".
+
+Booleanos (booleans): Representan valores de verdad, pueden ser verdadero (true)
+o falso (false).
+
+Listas (lists): Colecciones ordenadas de elementos.
+Por ejemplo: [1, 2, 3], ["manzana", "banana", "naranja"].
+
+Tuplas (tuples): Son similares a las listas, pero son inmutables (no se pueden modificar).
+Por ejemplo: (1, 2, 3), ("rojo", "verde", "azul").
+
+Diccionarios (dictionaries): Colecciones de pares clave-valor.
+Por ejemplo: {"nombre": "Juan", "edad": 30, "ciudad": "Madrid"}.
+
+Conjuntos (sets): Colecciones no ordenadas de elementos únicos.
+Por ejemplo: {1, 2, 3}, {"a", "b", "c"}.
