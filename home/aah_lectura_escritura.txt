@@ -1,0 +1,18 @@
+Operadores de Lectura y Escritura:
+Los operadores de lectura y escritura son herramientas utilizadas en programación para
+interactuar con archivos. En la mayoría de los lenguajes de programación, incluyendo
+C, C++, Java, Python, entre otros, existen operadores o funciones específicas para realizar
+operaciones de lectura y escritura en archivos.
+
+Por ejemplo, en C y C++, se utilizan funciones como fread() y fwrite() para leer y escribir
+datos binarios en archivos, y funciones como fscanf() y fprintf() para leer y escribir
+datos en formato de texto.
+
+En Java, se utilizan clases como FileInputStream, FileOutputStream, BufferedReader
+y BufferedWriter para realizar operaciones de lectura y escritura en archivos.
+
+En Python, se utilizan funciones como open() para abrir un archivo, y métodos como read()
+y write() para leer y escribir datos en el archivo.
+
+El manejo de archivos es una parte fundamental de la programación, ya que permite a los
+programas interactuar con el sistema de archivos del sistema operativo en el que se ejecutan.
